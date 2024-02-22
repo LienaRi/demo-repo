@@ -1,2 +1,3 @@
-# demo-repo
+# DEMO
+
 For Git learning purpose
